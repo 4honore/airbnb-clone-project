@@ -2,7 +2,7 @@
 
 The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment
 
-#Tech Stack
+Tech Stack
 
 Frontend:  HTML, CSS, JavaScript (React or similar framework)
 
@@ -11,7 +11,7 @@ Version Control:  Git and GitHub
 Design Tools:  Figma for UI/UX design
 
 
-#UI/UX Design Planning
+UI/UX Design Planning
 Design Goals
 
 _Create intuitive booking flow
@@ -40,4 +40,7 @@ Importance of User-Friendly Design
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-#Project Roles and Responsibilities
+Project Roles and Responsibilities
+
+
+![roles responsibilities](https://github.com/user-attachments/assets/fcb45915-5edd-4743-a1c1-b1bc25415798)
