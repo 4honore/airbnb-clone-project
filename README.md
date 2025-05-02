@@ -5,7 +5,5 @@ The goal is to build a functional web application that allows users to browse pr
 Tech Stack
 
 Frontend:  HTML, CSS, JavaScript (React or similar framework)
-
 Version Control:  Git and GitHub
-
 Design Tools:  Figma for UI/UX design
