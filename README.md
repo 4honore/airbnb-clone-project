@@ -12,23 +12,28 @@ Design Tools:  Figma for UI/UX design
 
 
 UI/UX Design Planning
+
 Design Goals
 
-_Create intuitive booking flow
-_Maintain visual consistency
-_Ensure fast loading times
-_Prioritize mobile responsiveness
+Create intuitive booking flow
+
+Maintain visual consistency
+
+Ensure fast loading times
+
+Prioritize mobile responsiveness
 
 Key Features
 
 Property search and filtering
+
 Detailed property viewing
+
 Secure checkout process
+
 User authentication
 
 Primary Pages
-
-Page	                              Description
 
 ![pages description](https://github.com/user-attachments/assets/70acb20d-18be-48d0-99d9-8d6519fd563d)
 
@@ -48,21 +53,31 @@ Planned Components
 Navbar
 
 Logo
+
 Search bar
+
 User navigation
+
 Responsive menu
+
 Property Card
 
 Property image
 
 Basic details (price, location, rating)
+
 Favorite button
+
 Responsive layout
+
 Footer
 
 Site links
 
 Company information
+
 Social media links
+
 Copyright information
+
 Each component will be designed for reusability and consistency across the application.
